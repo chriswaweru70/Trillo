@@ -1,7 +1,7 @@
 {
   "name": "Trillo",
   "version": "1.0.0",
-  "description": "Landing page for trillo",
+  "description": "trillo app",
   "main": "index.js",
   "scripts": {
     "watch:sass": "node-sass sass/main.scss css/style.css -w",
